@@ -45,7 +45,7 @@ CLIENT_SECRET = "your_client_secret_here"
 # Usage
 1. Run the script:
 ```bash
-python spotify_playlist.py
+python Spotify_Recommendation_System.py
 ```
 2. Enter the date in the format YYYY-MM-DD when prompted. This date corresponds to the Billboard Hot 100 chart for that period:
 ```bash
