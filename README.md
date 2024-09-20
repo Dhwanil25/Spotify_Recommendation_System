@@ -71,3 +71,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 [Dhwanil Mori](https://github.com/Dhwanil25)
+
+Feel free to contribute by submitting pull requests or raising issues!
