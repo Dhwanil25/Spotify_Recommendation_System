@@ -66,3 +66,8 @@ Which era of music would you like to explore? Enter the date in the format YYYY-
 - Pandas & NumPy: For data manipulation and analysis.
 
 # License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+[Dhwanil Mori](https://github.com/Dhwanil25)
